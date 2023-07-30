@@ -1,6 +1,6 @@
 # Speech_Recognition
 <div style="background-color: #f0f0f0; padding: 10px; text-align: center;">
-  <a href="https://example.com/my-project" style="font-size: 32px; color: blue; text-decoration: none; display: block;">
+  <a href="https://divya14401.github.io/Speech_Recognition/" style="font-size: 32px; color: blue; text-decoration: none; display: block;">
     Visit My Project
   </a>
 </div>
